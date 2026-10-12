@@ -34,3 +34,5 @@ py -3.12 -m venv .venv
 Локальная проверка 12 октября 2026 года: 16 тестов прошли на Windows с Python 3.12.2. Проверены запуск Uvicorn и запросы через `/docs`: обычная фраза возвращает 200 и positive, пустой текст возвращает 422.
 
 Источники: [FastAPI](https://fastapi.tiangolo.com/tutorial/), [тестирование](https://fastapi.tiangolo.com/tutorial/testing/), [GitHub Actions](https://docs.github.com/en/actions/tutorials/build-and-test-code/python).
+
+Третья часть: [рекомендательная система фильмов](https://github.com/lmaoooo45/ml-engineering-recsys).
